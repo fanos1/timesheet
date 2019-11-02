@@ -1,0 +1,29 @@
+
+// @import url('https://fonts.googleapis.com/css?family=Khula&display=swap');
+
+// css structure styles
+@import 'framework';
+@import 'buttons';
+@import 'alert';
+@import 'form';
+@import 'tables';
+
+
+$body-bg: #d2e1ff;
+
+// Typography
+// $font-family: font-family: 'Khula', sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+// Colors
+$dark_blue: #144591;
+$yellow: #dfc135;
+$light_blue: #3191c5;
+$cyan: #6cb2eb;
+
+
+.colr {
+        color: red;
+        font-weight: 700;
+    }
